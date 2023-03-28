@@ -1,0 +1,13 @@
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 9px solid #ECF3FC;
+    margin: 23px 80px 30px 80px;
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}

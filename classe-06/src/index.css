@@ -1,0 +1,13 @@
+:root {
+  --font-family: 'Mulish', sans-serif;
+  --font-size-title: 24px;
+  --font-size-subtitle: 18px;
+  --font-weight-title: 700;
+  --font-weight-subtitle: 400;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
